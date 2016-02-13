@@ -1,1 +1,3 @@
-# amm2015 Ciao
+Stefano R. Chessa
+
+Progetto di Amministrazione di sistema
