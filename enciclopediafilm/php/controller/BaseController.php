@@ -83,7 +83,7 @@ class BaseController {
     protected function showHomeCliente($vd) {
         // mostro la home dei clienti
 
-        $vd->setTitolo("NoleggioFilm - Gestione cliente ");
+        $vd->setTitolo("EnciclopediaDelFilm - Gestione cliente ");
         $vd->setLogoFile(basename(__DIR__) . '/../view/cliente/logo.php');
         $vd->setRightBarFile(basename(__DIR__) . '/../view/cliente/rightBar.php');
         $vd->setContentFile(basename(__DIR__) . '/../view/cliente/content.php');
@@ -95,7 +95,7 @@ class BaseController {
 */
     protected function showLoginPage($vd) {
         // mostro la pagina di login
-        $vd->setTitolo("NoleggioFilm - Loggando");
+        $vd->setTitolo("EnciclopediaDelFilm - Loggando");
         $vd->setLogoFile(basename(__DIR__) . '/../view/login/logo.php');
         $vd->setRightBarFile(basename(__DIR__) . '/../view/login/rightBar.php');
         $vd->setContentFile(basename(__DIR__) . '/../view/login/content.php');
@@ -109,7 +109,7 @@ class BaseController {
 */
     function showHomeGestore($vd) {
         // mostro la home dei dipendenti
-        $vd->setTitolo("NoleggioFilm - gestore");
+        $vd->setTitolo("EnciclopediaDelFilm - gestore");
         $vd->setLogoFile(basename(__DIR__) . '/../view/gestore/logo.php');
         $vd->setRightBarFile(basename(__DIR__) . '/../view/gestore/rightBar.php');
         $vd->setContentFile(basename(__DIR__) . '/../view/gestore/content.php');
