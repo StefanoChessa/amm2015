@@ -9,6 +9,30 @@
         <p>
         Per accedere al progetto di Amministrazione di Sistema di Stefano R. Chessa <a href="enciclopediafilm/php/login">clicca qui</a>
         </p>
+<p></br> L'applicazione consente la visualizzazione di un elenco di film. Gli utenti dell'applicazione sono clienti e gestori.
+    I gestori possono:
+    <ul>
+        <li> Aggiungere e rimuovere film
+        <li> Gestire i propri dati
+    </ul>
+    I clienti possono:
+    <ul>
+        <li> Visualizzare i dati dei film
+        <li> Gestire i propri dati
+    </ul>   
+</p>
+<p> <h3>Note:</h3></br>
+    Ad ogni casa produttrice è associato uno o più generi, quindi durante l'inserimento di un nuovo film è consentita la scelta della coppia casaproduttrice-categoria.
+</p>
+<p>
+<h3> Requisiti </h3>
+<ol>
+        <li>Utilizzo di HTML e CSS</li>
+        <li>Utilizzo di PHP e MySQL</li>
+        <li>Utilizzo del pattern MVC</li>
+        <li>Due ruoli</li>
+</ol>
+</p>
 <p>
 <h3>Utenti</h3>
 <ul>
