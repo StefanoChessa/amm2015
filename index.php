@@ -10,7 +10,7 @@
         Per accedere al progetto di Amministrazione di Sistema di Stefano R. Chessa <a href="enciclopediafilm/php/login">clicca qui</a>
         </p>
 <p></br> L'applicazione consente la visualizzazione di un elenco di film. Gli utenti dell'applicazione sono clienti e gestori.
-    </br>I gestori possono:
+    </br><br>I gestori possono:
     <ul>
         <li> Aggiungere e rimuovere film
         <li> Gestire i propri dati
