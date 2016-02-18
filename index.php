@@ -21,7 +21,7 @@
         <li> Gestire i propri dati
     </ul>   
 </p>
-<p> <h3>Note:</h3></br>
+<p> <h3>Note:</h3>
     Ad ogni casa produttrice è associato uno o più generi, quindi durante l'inserimento di un nuovo film è consentita la scelta della coppia casaproduttrice-categoria.
 </p>
 <p>
